@@ -4,3 +4,5 @@ My project is an OpenGL-based 2D animation depicting a cityscape with day and ni
 ![image alt](https://github.com/Fowzia15/DayandNight_simulation/blob/05c2ecfccb7d3906b3fc4fa89d830aa59f443596/Screenshot%202025-04-29%20165037.png)
 
 ![image alt](https://github.com/Fowzia15/DayandNight_simulation/blob/69edfa698c4978bfa2744cf4d43a195e4bc3e528/outputimage2.png)
+
+![image alt](https://github.com/Fowzia15/DayandNight_simulation/blob/0a79386e3520e425176df3a739706f4265bb6c62/output3_nightview.png)
